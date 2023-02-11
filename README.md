@@ -31,9 +31,11 @@ In this project, the data entered in html is saved in the jdbc database availabl
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/76623387/218260831-5622624a-a963-4592-ad9e-d0804c826c36.png)
-[image](https://user-images.githubusercontent.com/76623387/218260842-799330e9-e7e2-40c8-a60b-eb5ebb858141.png)
+![image](https://user-images.githubusercontent.com/76623387/218261040-8fd26d2a-7a2d-4ce0-b9e8-3836a9b3a150.png)
+
 ![image](https://user-images.githubusercontent.com/76623387/218260896-b3fc0162-3b0f-461d-8933-cb226b2862ff.png)
-![image](https://user-images.githubusercontent.com/76623387/218260911-476dbb4b-5f47-48be-9b70-464e8383c118.png)
+![image](https://user-images.githubusercontent.com/76623387/218261015-c22eaf34-8333-4cc2-b5af-8515e4707db3.png)
+
 
 ## Authors
 
