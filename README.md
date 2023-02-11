@@ -4,7 +4,7 @@
 
 In this project we have built an web application for buying PC components.
 
-The fontend used in this project is HTML/CSS. The backend used in this project is java servlet.
+The fontend and backend used for this project HTML/CSS and java sevlet respectively.
 
 ## Languages
 
