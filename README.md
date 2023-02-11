@@ -19,9 +19,10 @@ NetBeans 8.2
 jdbc
 
 ## How to Run the project ?
-
-- Import all the files into your java IDE. 
-- Make sure you have created a jdbc database in your IDE.
+- Extract Images and Html zip file
+- Import all the images and html files into your java webpages folder under your project. 
+- Import java servlet files in your source packages folder.
+- Before running the project ,make sure you have created a jdbc database in your IDE.
 - Once created, run the pcweb.html file in your java IDE.   
 
 
