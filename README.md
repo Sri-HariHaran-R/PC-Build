@@ -4,7 +4,7 @@
 
 In this project we have built an web application for buying PC components.
 
-The fontend and backend used for this project HTML/CSS and java sevlet respectively.
+The frontend and backend used for this project HTML/CSS and java sevlet respectively.
 
 ## Languages
 
